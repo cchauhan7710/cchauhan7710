@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Chauhan;Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=35&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Chauhan;Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 ## <div align="center"><img src="https://raw.githubusercontent.com/Potential17/Potential17/main/user.gif" width="30px"> **About Me**</div>
 
 <p align="center">
-  <b>Full-Stack Developer</b> with expertise in building scalable, high-performance web applications using modern technologies. Passionate about clean code, system design, and creating meaningful solutions to real-world problems.
+  <b>Full-Stack Developer</b> with expertise in building scalable, high-performance web applications using modern technologies. Passionate about clean code, system design, and creating meaningful solutions.
 </p>
 
 <table align="center" style="font-size: 15px;">
@@ -108,13 +108,13 @@
 ## <div align="center"><img src="https://raw.githubusercontent.com/Potential17/Potential17/main/github.gif" width="32px"> **GitHub Analytics**</div>
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc" />
   
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9cacc&langs_count=8" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9cacc" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&currStreakLabel=c9cacc&sideNums=c9cacc&dates=c9cacc" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
