@@ -12,12 +12,14 @@
 
 <h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-user-tie"></i> About Me</h2>
 
-I'm a passionate **Full-Stack Developer** specializing in building modern, scalable web applications using the **MERN stack**. With a strong foundation in both frontend and backend technologies, I create robust solutions that solve real-world problems.
+## About Me
 
-- <i class="fas fa-bullseye" style="color: #00D9FF;"></i> **Expertise**: Web Development, Backend Systems, Full-Stack Architecture
-- <i class="fas fa-laptop-code" style="color: #00D9FF;"></i> **Current Focus**: MERN Stack & Real-World Applications
-- <i class="fas fa-rocket" style="color: #00D9FF;"></i> **Philosophy**: Clean Code, Scalability & Performance
-- <i class="fas fa-graduation-cap" style="color: #00D9FF;"></i> **Mindset**: Always Learning & Growing
+I'm a Full-Stack Developer focused on building scalable and modern web applications using the MERN stack. I enjoy turning real-world problems into efficient, clean, and maintainable solutions.
+
+- **Expertise:** Web Development, Backend Systems, Full-Stack Architecture  
+- **Current Focus:** MERN Stack & Real-World Projects  
+- **Approach:** Clean Code, Scalability, Performance  
+- **Mindset:** Continuous Learning & Growth  
 
 ---
 
