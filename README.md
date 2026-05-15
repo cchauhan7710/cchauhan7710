@@ -1,33 +1,20 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rahul+Chauhan;Full-Stack+Developer;MERN+Stack+Specialist;Always+Learning" alt="Typing Animation" />
-</div>
+# Hi there! 👋 I'm Rahul Chauhan
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00D9FF?style=flat-square&logo=circle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00D9FF?style=flat-square&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-00D9FF?style=flat-square&logo=map&logoColor=white" />
-</div>
+**Full-Stack Developer** | Building scalable web applications with MERN stack | India
 
 ---
-
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-user-tie"></i> About Me</h2>
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building scalable and modern web applications using the MERN stack. I enjoy turning real-world problems into efficient, clean, and maintainable solutions.
+Full-Stack Developer focused on clean, scalable code and real-world solutions.
 
-- **Expertise:** Web Development, Backend Systems, Full-Stack Architecture  
-- **Current Focus:** MERN Stack & Real-World Projects  
-- **Approach:** Clean Code, Scalability, Performance  
-- **Mindset:** Continuous Learning & Growth  
+- **Expertise:** MERN Stack, Web Development, System Design
+- **Current Focus:** Full-Stack Projects & Microservices
+- **Approach:** Clean Code, Performance, Continuous Learning
 
 ---
 
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-tools"></i> Tech Stack</h2>
-
-<div align="center">
-
-<h3 style="font-size: 20px; font-weight: 600; color: #00D9FF;"><i class="fas fa-code"></i> Languages & Frameworks</h3>
+## Tech Stack
 
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
@@ -36,100 +23,40 @@ I'm a Full-Stack Developer focused on building scalable and modern web applicati
 ![Express](https://skillicons.dev/icons?i=express&theme=dark)
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-
-<h3 style="font-size: 20px; font-weight: 600; color: #00D9FF;"><i class="fas fa-palette"></i> Frontend</h3>
-
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
-
-<h3 style="font-size: 20px; font-weight: 600; color: #00D9FF;"><i class="fas fa-database"></i> Database & Backend</h3>
-
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-
-<h3 style="font-size: 20px; font-weight: 600; color: #00D9FF;"><i class="fas fa-toolbox"></i> Tools & Platforms</h3>
-
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
 
-</div>
-
 ---
 
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-project-diagram"></i> Featured Projects</h2>
-
-<div align="center">
+## Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Campus Cart** | E-commerce platform for campus community | [Visit Project](https://campus-cart-yq68.vercel.app) |
-| **SkillProof** | Skill verification and showcase platform | [Visit Project](https://skillproof-frontend.onrender.com) |
-| **Samadhan** | Community problem-solving platform | [Visit Project](https://samadhan-wlt1.onrender.com) |
-| **Arsh** | Full-stack application | [Visit Project](https://arsh-08gh.onrender.com) |
-
-</div>
+| Campus Cart | E-commerce platform for campus | [Visit](https://campus-cart-yq68.vercel.app) |
+| SkillProof | Skill verification platform | [Visit](https://skillproof-frontend.onrender.com) |
+| Samadhan | Community problem-solving | [Visit](https://samadhan-wlt1.onrender.com) |
+| Arsh | Full-stack application | [Visit](https://arsh-08gh.onrender.com) |
 
 ---
 
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-chart-bar"></i> GitHub Analytics</h2>
+## Current Status
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9cacc" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cchauhan7710&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc" alt="GitHub Streak" />
-</div>
+🔧 **Coding:** MERN Stack Projects  
+📚 **Learning:** Advanced System Design & Microservices  
+🎵 **Vibes:** Music & Code
 
 ---
 
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-tasks"></i> Current Status</h2>
+## Connect With Me
 
-<div align="center">
-  <table style="font-size: 16px; font-weight: 500;">
-    <tr>
-      <td style="padding: 12px; font-weight: 600; color: #00D9FF;"><i class="fas fa-code"></i> Currently Coding</td>
-      <td style="padding: 12px;">MERN Stack Projects</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; font-weight: 600; color: #00D9FF;"><i class="fas fa-book"></i> Learning</td>
-      <td style="padding: 12px;">Advanced System Design & Microservices</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; font-weight: 600; color: #00D9FF;"><i class="fas fa-music"></i> Vibes</td>
-      <td style="padding: 12px;">Music & Code</td>
-    </tr>
-  </table>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chauhan-6091a8347)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/cchauhan7710)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulchauhaninbox@gmail.com)
 
 ---
 
-<h2 align="center" style="font-size: 28px; font-weight: 700; color: #00D9FF;"><i class="fas fa-envelope"></i> Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rahul-chauhan-6091a8347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/cchauhan7710" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rahulchauhaninbox@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cchauhan7710" alt="visitor badge"/>
-</div>
-
----
-
-<p align="center" style="font-size: 16px; font-weight: 500;">
-  <i class="fas fa-lightbulb" style="color: #00D9FF;"></i> Always open to collaborating on interesting projects and learning from talented developers!
-</p>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+Always open to collaborating on interesting projects! 💡
