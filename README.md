@@ -17,35 +17,17 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-171515?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-India-555555?style=flat-square" />
 </div>
 
----
-
 ## About
 
 <p align="center">
-Full-Stack Developer focused on building scalable, high-performance web applications.  
-Strong interest in backend architecture, system design, and clean engineering practices.
+Full-Stack Developer crafting scalable, high-performance applications with clean architecture and a focus on real-world solutions.
 </p>
-
-<div align="center">
-
-| Expertise | Approach |
-|----------|---------|
-| Web Development | Clean Code |
-| Full-Stack Architecture | Performance First |
-| REST APIs | Scalable Systems |
-| Database Design | Continuous Learning |
-
-</div>
-
----
 
 ## Tech Stack
 
@@ -57,7 +39,6 @@ Strong interest in backend architecture, system design, and clean engineering pr
 
 </div>
 
----
 
 ## Projects
 
@@ -72,8 +53,6 @@ Strong interest in backend architecture, system design, and clean engineering pr
 
 </div>
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -84,8 +63,6 @@ Strong interest in backend architecture, system design, and clean engineering pr
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 ## Contact
 
@@ -99,8 +76,6 @@ Strong interest in backend architecture, system design, and clean engineering pr
 </a>
 
 </div>
-
----
 
 <div align="center">
   <sub>Rahul Chauhan • Full-Stack Developer</sub>
