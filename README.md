@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Rahul+Chauhan;Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
 </div>
 
+<h1 align="center">Rahul Chauhan</h1>
 <p align="center">Full-Stack Developer • MERN Stack • Scalable Systems</p>
 
 <div align="center">
