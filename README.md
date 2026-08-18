@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Scalable+Systems" />
 </div>
 
 <h1 align="center">Rahul Chauhan</h1>
@@ -39,28 +39,27 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 </div>
 
-
 ## Projects
 
 <div align="center">
 
-| Project | Description | Link |
-|--------|------------|------|
-| Campus Cart | MERN-based e-commerce platform | https://campus-cart-yq68.vercel.app |
-| SkillProof | Developer verification platform | https://skillproof-frontend.onrender.com |
-| Samadhan | Community problem-solving system | https://samadhan-wlt1.onrender.com |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Campus Cart** | MERN-based e-commerce platform with payment integration | React, Node.js, MongoDB, Stripe | [Live Demo](https://campus-cart-yq68.vercel.app) |
+| **SkillProof** | Developer verification & portfolio showcase platform | MERN, Authentication | [Live Demo](https://skillproof-frontend.onrender.com) |
+| **Samadhan** | Community problem-solving system with real-time updates | React, Firebase, Node.js | [Live Demo](https://samadhan-wlt1.onrender.com) |
 
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## Contact
@@ -68,10 +67,10 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 <div align="center">
 
 <a href="https://linkedin.com/in/rahul-chauhan-6091a8347">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rahulchauhaninbox@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
