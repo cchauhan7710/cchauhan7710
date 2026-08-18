@@ -69,16 +69,6 @@ Below are some highlighted projects. Visit the repositories for details and demo
 
 <br />
 
-## Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/cchauhan7710" alt="Contribution chart" />
-
-<br />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=cchauhan7710&theme=tokyonight&area=true" alt="Activity Graph" />
-
-</div>
 
 
 ## Contact
