@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Scalable+Systems" />
 </div>
 
 <h1 align="center">Rahul Chauhan</h1>
@@ -46,7 +46,7 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 | Project | Description | Repository | Live Demo |
 |--------|------------|-----------|-----------|
-| Campus Cart | Full-stack e-commerce platform with payment integration, order management, and product catalog | [GitHub](https://github.com/cchauhan7710/campus-cart) | [Live](https://campuscart-frontend-4dqh.onrender.com) |
+| Campus Cart | Full-stack e-commerce platform with payment integration, order management, and product catalog | [GitHub](https://github.com/cchauhan7710/campus-cart) | [Live](https://campuscart-frontend.onrender.com) |
 | SkillProof | Developer verification platform for credential management and skill validation | [GitHub](https://github.com/cchauhan7710/skillproof) | [Live](https://skillproof-frontend.onrender.com) |
 | Samadhan | Community-driven problem-solving system connecting users with solutions and expertise | [GitHub](https://github.com/cchauhan7710/samadhan-helpdesk) | [Live](https://samadhan-helpdesk-7ztk.onrender.com) |
 
@@ -56,8 +56,10 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahul Chauhan's GitHub Stats" />
+<!-- Main overall GitHub stats (use include_all_commits & count_private to surface private contributions if available) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Rahul Chauhan's GitHub Stats" />
 
+<!-- Top languages -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rahul Chauhan's Top Languages" />
 
 </div>
@@ -66,7 +68,8 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="GitHub Additional Stats" />
+<!-- Streak stats (contributions streak) - alternative hosted service -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cchauhan7710&theme=tokyonight&hide_border=true" alt="Rahul Chauhan's GitHub Streak" />
 
 </div>
 
