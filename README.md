@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Speciali[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Rahul Chauhan</h1>
@@ -44,11 +44,11 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 <div align="center">
 
-| Project | Description | Link |
-|--------|------------|------|
-| Campus Cart | MERN-based e-commerce platform | https://campuscart-frontend-4dqh.onrender.com |
-| SkillProof | Developer verification platform | https://skillproof-frontend.onrender.com |
-| Samadhan | Community problem-solving system | https://samadhan-wlt1.onrender.com |
+| Project | Description | Repository | Live Demo |
+|--------|------------|-----------|-----------|
+| Campus Cart | Full-stack e-commerce platform with payment integration, order management, and product catalog | [GitHub](https://github.com/cchauhan7710/campus-cart) | [Live](https://campuscart-frontend-4dqh.onrender.com) |
+| SkillProof | Developer verification platform for credential management and skill validation | [GitHub](https://github.com/cchauhan7710/skillproof) | [Live](https://skillproof-frontend.onrender.com) |
+| Samadhan | Community-driven problem-solving system connecting users with solutions and expertise | [GitHub](https://github.com/cchauhan7710/samadhan-helpdesk) | [Live](https://samadhan-helpdesk-7ztk.onrender.com) |
 
 </div>
 
@@ -66,7 +66,7 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="Rahul Chauhan's GitHub Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="GitHub Additional Stats" />
 
 </div>
 
