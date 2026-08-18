@@ -46,7 +46,7 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 
 | Project | Description | Link |
 |--------|------------|------|
-| Campus Cart | MERN-based e-commerce platform | https://campus-cart-yq68.vercel.app |
+| Campus Cart | MERN-based e-commerce platform | https://campuscart-frontend-4dqh.onrender.com |
 | SkillProof | Developer verification platform | https://skillproof-frontend.onrender.com |
 | Samadhan | Community problem-solving system | https://samadhan-wlt1.onrender.com |
 
