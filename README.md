@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+Speciali[...]
 </div>
 
 <h1 align="center">Rahul Chauhan</h1>
@@ -55,12 +55,34 @@ Full-Stack Developer crafting scalable, high-performance applications with clean
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahul Chauhan's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchauhan7710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rahul Chauhan's Top Languages" />
+
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cchauhan7710&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=cchauhan7710&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" alt="Rahul Chauhan's GitHub Activity" />
+
+</div>
+
+<br />
+
+## Contributions
+
+<div align="center">
+
+<!-- Contribution chart (calendar-style) -->
+<img src="https://ghchart.rshah.org/cchauhan7710" alt="Rahul Chauhan's GitHub Contribution Chart" />
+
+<!-- Activity graph (alternative) -->
+<br />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=cchauhan7710&theme=tokyonight&area=true" alt="Activity Graph" />
+
 </div>
 
 ## Contact
