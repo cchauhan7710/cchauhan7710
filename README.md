@@ -56,7 +56,7 @@ My work spans:
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
-| **CampusCart** | MERN-based campus e-commerce platform with payment integration | React, Node.js, MongoDB, Stripe | [Live Demo](https://campus-cart-yq68.vercel.app) |
+| **CampusCart** | MERN-based campus e-commerce platform with payment integration | React, Node.js, MongoDB, Stripe | [Live Demo](https://campus-cart-ui.vercel.app/) |
 | **SkillProof** | Developer verification and portfolio showcase platform | MERN, Authentication | [Live Demo](https://skillproof-frontend.onrender.com) |
 | **SAMADHAN** | Community-driven helpdesk and issue resolution system | React, Firebase, Node.js | [Live Demo](https://samadhan-wlt1.onrender.com) |
 | **Temple Pilgrimage Crowd Management** | Pilgrimage and crowd flow management platform for spiritual destinations | JavaScript, React | [Repository](https://github.com/cchauhan7710/Temple-Pilgrimage-Crowd-Management-Frontend-) |
